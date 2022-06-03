@@ -24,7 +24,7 @@ body {
   place-self: center;
   border-radius: 6px;
   overflow: hidden;
-  height: 450px;
+  height: 460px;
   max-width: 650px;
   width: 90%;
   display: grid;
@@ -46,7 +46,7 @@ body {
 }
 
 .card {
-  padding: 1.5rem;
+  padding: 2rem;
 }
 
 .text {
